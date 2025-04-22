@@ -2,7 +2,7 @@
     "development": {
         "username": "postgres",
         "password": "your_password",
-        "database": "bni_ecommerce_dev",
+        "database": "hari3_ecommerce_dev",
         "host": "127.0.0.1",
         "port": 5432,
         "dialect": "postgres"
@@ -10,7 +10,7 @@
     "test": {
         "username": "postgres",
         "password": "your_password",
-        "database": "bni_ecommerce_test",
+        "database": "hari3_ecommerce_test",
         "host": "127.0.0.1",
         "port": 5432,
         "dialect": "postgres"
@@ -18,7 +18,7 @@
     "production": {
         "username": "postgres",
         "password": "your_password",
-        "database": "bni_ecommerce_prod",
+        "database": "hari3_ecommerce_prod",
         "host": "127.0.0.1",
         "port": 5432,
         "dialect": "postgres"
